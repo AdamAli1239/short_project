@@ -1,0 +1,17 @@
+h1{
+    text-align:center;
+}
+span{
+    background-color:red;
+}
+p{
+    background-color:black;
+    color:white;
+}
+.no{
+    display:flex;
+    justify-content:end;
+}
+h2{
+    text-align: center;
+}
